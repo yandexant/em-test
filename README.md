@@ -8,13 +8,18 @@ docker-compose.yml
 
 README.md
 
+
 запуск:
-перейти в корень проекта
+перейти в корень проекта, запустить:
 docker compose up --build
+
 
 проверить:
 curl http://localhost
+
 вывод должен показать: Hello from Effective Mobile!
+
+
 
 схема работает:
 клиент -> Nginx(80) -> Backend(8080, docker net)
