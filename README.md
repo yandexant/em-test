@@ -1,6 +1,6 @@
 Веб-приложение в докере
 
-backend/Dockerfile,wserv.py /n
+backend/Dockerfile,wserv.py
 
 nginx/nginx.conf 
 
