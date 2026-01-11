@@ -1,12 +1,9 @@
 Веб-приложение в докере
 
-├── backend/
-│ ├── Dockerfile
-│ └── wserv.py
-├── nginx/
-│ └── nginx.conf
-├── docker-compose.yml
-└── README.md
+backend/Dockerfile,wserv.py
+nginx/nginx.conf
+docker-compose.yml
+README.md
 
 запуск:
 перейти в корень проекта
